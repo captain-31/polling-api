@@ -17,7 +17,7 @@ This is a polling API application built using node, express and mongodb.
 
 ```bash
 git clone https://github.com/captain-31/polling-api.git
-cd postpollingaway-api
+cd polling-api
 ```
 
 2. Install Dependencies:
